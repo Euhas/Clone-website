@@ -11,7 +11,7 @@ This is a simple Udemy clone built using basic HTML and CSS, designed to mimic t
 
 ## 🌐 Live Demo
 
-Check out the live demo of the Udemy clone website here: [Your Live Link](https://yourwebsite.com)
+Check out the live demo of the Udemy clone website here:  Live Link https://euhas.github.io/Clone-website/
 
 ## 🛠️ Built With
 
